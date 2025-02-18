@@ -167,7 +167,7 @@ input, select, textarea {
 	}
 
 	em, i {
-		font-style: italic;
+		color: #ff7300;
 	}
 
 	p {
